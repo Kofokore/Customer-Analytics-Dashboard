@@ -8,3 +8,8 @@ This project focuses on analyzing customer behavior, demographics, and value seg
 3. To understand the demographic composition of customers
 4. To visualize customer growth trends over the years using the growth index
 5. To assess occupational distribution of customers and its relationship with gender
+### Insights from Analysis
+1. Boomers and Generation X dominates the company customers while the youngest generation, Generation Z has the least customer quota. This shows that the company products appeal more to the older generation which might not be sustainable for future growth potential
+2. The customer growth index chart reveals that customers acquisition has been on a decline.
+3. The occupation distribution by gender will help to appropraite the right marketing campaigns to certain professionals
+4. A larger part of customers population are low income earners. This plays a key role in pricing strategy and product positioning
