@@ -13,3 +13,9 @@ This project focuses on analyzing customer behavior, demographics, and value seg
 2. The customer growth index chart reveals that customers acquisition has been on a decline.
 3. The occupation distribution by gender will help to appropraite the right marketing campaigns to certain professionals
 4. A larger part of customers population are low income earners. This plays a key role in pricing strategy and product positioning
+### Recommendations
+1. Larger part of future marketing campaigns should be focused on Generation Z
+2. The new customers accounts for less than ten percent of the total customers population. Several measures like first time purchase incentives, loyalty programs, customer follow-ups, marketing strategy re-branding needs to be put in place to help in customers acquisition
+3. Leverage occupational insights. Tailor products/services to dominant occupations and align marketing with professional needs
+4. Customer growth has been on a decline. There is a need for a different marketing approach 
+5. Loyal and legacy customers accounts for over 70% of overall customers population. Incentives like exclusive offers, vip programs, early access to products should be made available to increase lifetime value and strenghten retention 
